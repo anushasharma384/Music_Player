@@ -102,6 +102,24 @@ h3 {
     margin: 0%;
 }
 
+.github {
+    position: absolute;
+    z-index: 1;
+    top: 5%;
+    left: 5%;
+    padding: 3px;
+}
+
+.fa-github-alt {
+    font-size: 3.5rem;
+    color: black;
+    text-shadow: 1px 1px 4px black;
+}
+
+.fa-github-alt:hover {
+    color: rgb(62, 62, 62);
+}
+
 @media screen and (max-width: 400px) 
 {
     .player-container{
@@ -187,5 +205,11 @@ h3 {
 
     .fas:hover {
         filter: brightness(80%);
+    }
+
+    .fa-github-alt {
+        font-size: 2.5rem;
+        color: black;
+        text-shadow: 1px 1px 4px black;
     }
 }
