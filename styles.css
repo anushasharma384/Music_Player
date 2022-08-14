@@ -123,7 +123,7 @@ h3 {
 @media screen and (max-width: 400px) 
 {
     .player-container{
-        margin-top: 100px;
+        margin-top: 120px;
         height: 500px;
         width: 350px;
         background: #e7e7e7;
@@ -183,7 +183,7 @@ h3 {
     }
 
     #duration{
-        margin-left:250px ;
+        margin-left:270px ;
     }
 
     .player-controls{
@@ -205,6 +205,14 @@ h3 {
 
     .fas:hover {
         filter: brightness(80%);
+    }
+
+    .github {
+        position: absolute;
+        z-index: 1;
+        top: 4%;
+        left: 4%;
+        padding: 3px;
     }
 
     .fa-github-alt {
