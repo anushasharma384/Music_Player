@@ -162,6 +162,18 @@ const song = [
         display_name: 'Milte Hai Zindagi Mein',
         artist: 'Lata Mangeshkar',
     },
+    {
+        name_song: 'image-26',
+        name_image: 'image-20',
+        display_name: 'Mai Roothi To',
+        artist: 'Jyotika Tangri',
+    },
+    {
+        name_song: 'image-27',
+        name_image: 'image-15',
+        display_name: 'LaI-Ilaaj',
+        artist: 'Arijit Singh',
+    }
 ]
 
 //Check if Playing
