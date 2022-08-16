@@ -139,7 +139,7 @@ const song = [
         artist: 'Lata Mangeshkar',
     },
     {
-        name_song: 'image22',
+        name_song: 'image-22',
         name_image: 'image-22',
         display_name: 'Dil Kyun Yeh Mera',
         artist: 'KK',
