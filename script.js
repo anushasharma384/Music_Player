@@ -171,7 +171,7 @@ const song = [
     {
         name_song: 'image-27',
         name_image: 'image-15',
-        display_name: 'LaI-Ilaaj',
+        display_name: 'La-Ilaaj',
         artist: 'Arijit Singh',
     }
 ]

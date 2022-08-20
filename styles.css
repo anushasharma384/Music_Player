@@ -61,13 +61,12 @@ body{
 
 .duration-wrapper {
     position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
     font-size: 14px;
     font-weight: 1000px;
     top: -25px;
-}
-
-#duration {
-    margin-left: 300px;
 }
 
 .player-controls {
@@ -77,7 +76,7 @@ body{
     width: 200px;
 }
 
-.fas {
+.button {
     font-size: 30px;
     color: rgb(101, 100, 100);
     margin-right: 35px;
@@ -86,7 +85,7 @@ body{
 }
 
 
-.fas:hover {
+.button:hover {
     filter: brightness(80%);
 }
 
@@ -116,9 +115,6 @@ h3 {
     text-shadow: 1px 1px 4px black;
 }
 
-.fa-github-alt:hover {
-    color: rgb(62, 62, 62);
-}
 
 @media screen and (max-width: 400px) 
 {
@@ -177,13 +173,12 @@ h3 {
 
     .duration-wrapper{
         position: relative;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
         font-size: 14px;
         font-weight: 1000px;
         top: -25px;
-    }
-
-    #duration{
-        margin-left: 270px;
     }
 
     .player-controls{
