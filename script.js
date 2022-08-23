@@ -197,14 +197,13 @@ function pausesong()
     music.pause();
 }
 
-//Play ou Pause Event Listner
+//Play or Pause Event Listner
 playBtn.addEventListener('click', () => (isPlaying ? pausesong() : playsong()));
 
 //Update DOM
 function loadSong(song) {
     title.textContent = song.display_name;
     artist.textContent = song.artist;
-    // current_time2.textContent = song.end_time;
     music.src = `songs/${song.name_song}.mp3`;
     image.src = `images/${song.name_image}.jpg`;
 }
