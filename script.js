@@ -123,7 +123,7 @@ const song = [
     {
         name_song: 'image-19',
         name_image: 'image-19',
-        display_name: 'Teri Hogaiyaan 2',
+        display_name: 'Teri Hogaiyaan-2',
         artist: 'Vishal mishra',
     },
     {
@@ -159,7 +159,7 @@ const song = [
     {
         name_song: 'image-25',
         name_image: 'image-25',
-        display_name: 'Milte Hai Zindagi Mein',
+        display_name: 'Milti Hai Zindagi Mein',
         artist: 'Lata Mangeshkar',
     },
     {

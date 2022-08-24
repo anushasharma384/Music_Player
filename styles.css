@@ -86,17 +86,17 @@ body{
 
 
 .button:hover {
-    filter: brightness(70%);
+    filter: brightness(68%);
 }
 
 h2 {
-    font-size: 25px;
+    font-size: 26px;
     text-align: center;
     margin: 0%;
 }
 
 h3 {
-    font-size: 15px;
+    font-size: 16px;
     text-align: center;
     margin: 0%;
 }
